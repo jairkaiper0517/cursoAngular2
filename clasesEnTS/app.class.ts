@@ -13,8 +13,5 @@ export class Avenger {
     this.nombreReal = nombreReal;
 
   }
+
 }
-
-let antman:Avenger = new Avenger("Antman", "ningun equipo", "jose");
-
-console.log(antman);

@@ -14,5 +14,3 @@ var Avenger = /** @class */ (function () {
     return Avenger;
 }());
 exports.Avenger = Avenger;
-var antman = new Avenger("Antman", "ningun equipo", "jose");
-console.log(antman);
